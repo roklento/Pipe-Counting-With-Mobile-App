@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CountPipes</string>
+    <string name="image_view_description">DisplayedImage</string>
+    <string name="capture_photo">CapturePhoto</string>
+    <string name="box_count">Count: %1$d</string>
+    <string name="save_button">Save</string>
+    <string name="tag_button">Tag</string>
+    <string name="finish_button">Finish</string>
+    <string name="undo_button">Undo</string>
+    <string name="back_button">Back</string>
+</resources>
